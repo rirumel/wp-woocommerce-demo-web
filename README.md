@@ -8,6 +8,7 @@ To showcase my skills in WordPress, particularly using WooCommerce, I built this
 - Added-Edited-Removed products (Guitars), and cross-checked different purchasing options like adding to cart, checking out, product filters, add discount code etc.
 - Added payment method (Since I built this website on localhost, I chose cash on delivery as the payment option but on live server, we can easily add debit/credit card options)
 - Edited headers, main page, and footers using Elementor
+- Using WooCommerce to configure email for the owners to manage the orders, and to deal with customers
 
 The whole idea of this project is to show that I can confidently work with installing and configuring WordPress, installing and editing WooCommerce Plugin, and Elementor.
 
